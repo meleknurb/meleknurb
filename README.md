@@ -17,3 +17,8 @@ In addition to my technical skills, I value creativity and problem-solving as es
 
 I’m always eager to take on new challenges that push my boundaries and help me grow both personally and professionally. If you have an exciting project or opportunity, feel free to get in touch—I’d love to collaborate and make an impact together!
 
+## 📊 GitHub Stats
+
+![Melek Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=meleknurb&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meleknurb&layout=compact&theme=default)
