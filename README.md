@@ -17,6 +17,12 @@ In addition to my technical skills, I value creativity and problem-solving as es
 
 I’m always eager to take on new challenges that push my boundaries and help me grow both personally and professionally. If you have an exciting project or opportunity, feel free to get in touch—I’d love to collaborate and make an impact together!
 
+### 🛠 Tech Stack & Skills
+
+![Python](https://skillicons.dev/icons?i=python&style=light)  ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  ![PyTorch](https://skillicons.dev/icons?i=pytorch&style=light)
+![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)  ![HTML](https://skillicons.dev/icons?i=html&style=light) ![CSS](https://skillicons.dev/icons?i=css&style=light) ![JavaScript](https://skillicons.dev/icons?i=js&style=light) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Git](https://skillicons.dev/icons?i=git)  ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode&style=light)
+
+
 ## 📊 GitHub Stats
 
 ![Melek Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=meleknurb&show_icons=true&theme=default)
