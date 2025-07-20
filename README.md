@@ -12,10 +12,8 @@ I’m a 19-year-old self-taught developer passionate about **Data Science**, **M
 
 📫 Feel free to check out my projects, explore my code, or reach out — I'm always open to new opportunities, learning experiences, and creative collaborations!
 
----
 
 In addition to my technical skills, I value creativity and problem-solving as essential components of my work. I believe that combining analytical thinking with innovation leads to the best solutions. Outside of coding, I enjoy reading about the latest advancements in AI, experimenting with new tools, and connecting with like-minded professionals worldwide. 
 
 I’m always eager to take on new challenges that push my boundaries and help me grow both personally and professionally. If you have an exciting project or opportunity, feel free to get in touch—I’d love to collaborate and make an impact together!
 
----
