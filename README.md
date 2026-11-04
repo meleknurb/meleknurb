@@ -1,6 +1,6 @@
 ### Hi there, I’m Melek Nur Bacaklı 👋
 
-I’m a 19-year-old self-taught developer passionate about **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Web Development**. My journey started with a strong curiosity about how technology can be used to solve real-world problems — and since then, I’ve been continuously learning, building, and experimenting.
+I’m a 20-year-old self-taught developer passionate about **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Web Development**. My journey started with a strong curiosity about how technology can be used to solve real-world problems — and since then, I’ve been continuously learning, building, and experimenting.
 
 🔍 I focus mainly on **Python**, especially for machine learning and data-related projects. I enjoy exploring datasets, cleaning messy data, training models, and turning insights into action.
 
